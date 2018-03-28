@@ -93,3 +93,10 @@
 127.0.0.1 www.nicovideo.jp
 127.0.0.1 nicovideo.jp
 127.0.0.1 motionspire.com
+127.0.0.1 www.tumblr.com
+127.0.0.1 tumblr.com
+127.0.0.1 www.pronhub.com
+127.0.0.1 pronhub.com
+127.0.0.1 www.pixiv.net
+127.0.0.1 pixiv.net
+127.0.0.1 blog.pixiv.net
